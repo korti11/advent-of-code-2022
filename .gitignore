@@ -1,1 +1,4 @@
 /target
+
+# Ignore solution files
+data/day*.solution.txt
