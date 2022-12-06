@@ -1,6 +1,6 @@
 mod data;
-mod day4;
+mod day6;
 
 fn main() {
-    day4::solution::execute(2);
+    day6::solution::execute(2);
 }
